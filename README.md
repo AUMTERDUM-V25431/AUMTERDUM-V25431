@@ -7,7 +7,7 @@ Back-End Developer
 กำลังศึกษา Flutter ควบคู่กับ GOlang และการเชื่อมกับ MQTT พร้อมการจัดการฐานข้อมูล
 
 * 🌍  I'm based in Chai-nat, Thailand
-* ✉️  You can contact me at [amt\_2541@hotmail.com, amt\_2547@hotmail.com](mailto:amt_2541@hotmail.com, amt_2547@hotmail.com)
+* ✉️  You can contact me at [amt\_2541@hotmail.com, amt\_2547@hotmail.com]
 * 🧠  I'm learning Flutter, MQTT, GO lang
 
 ### Skills
